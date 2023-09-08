@@ -1,0 +1,13 @@
+1. Buat Database 
+2. Import file database.sql ke database yang telah dibuat
+3. setting file config di directory "application\config\database.php"
+4. ubah baris berikut sesuai database yang telah dibuat
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'apotekv2',
+3. User aplikasi (username||password)
+	=> Admin (admin||admin)
+	=> Karyawan (karyawan||karyawan)
+
+	
